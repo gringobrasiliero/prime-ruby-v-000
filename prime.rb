@@ -18,9 +18,9 @@ while i * i <= num do
 end
   elsif i <= i + 6
     return true
-  end  
-    
-  
+  end
+
+
 end
 
   end
