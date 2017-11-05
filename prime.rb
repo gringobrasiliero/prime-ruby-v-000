@@ -10,5 +10,3 @@ while i < num
 end
   false
 end
-
-
