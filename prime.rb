@@ -19,4 +19,3 @@ end
   elsif i <= i + 6
     return true
   end
-
