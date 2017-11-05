@@ -9,7 +9,6 @@ while i < num
 else
   i += 1
 end
-else
   false
 end
 
