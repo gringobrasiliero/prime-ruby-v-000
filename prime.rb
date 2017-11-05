@@ -1,17 +1,27 @@
 # Add  code here!
 def prime?(num)
 
-  if n <= 1 
+  if num <= 1
     return false
   end
-  elsif n <= 3
+elsif num <= 3
     return true
   end
-  elsif n%2 = 0 || n%3 = 0
+elsif num%2 = 0 || num%3 = 0
     return false
+  end
+  i <= 5
+
+while i * i <= num do
+  if num%i = 0 || num%(i+2) = 0
+    return false
+end
+  elsif i <= i + 6
+    return true
   end  
-  i < 5
-  
     
-  end  
+  
+end
+
+  end
 end
